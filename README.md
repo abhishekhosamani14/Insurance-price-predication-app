@@ -13,4 +13,4 @@ activate environment
 
 
 After that run this command to view the app
-streamlit run app.py
+# streamlit run app.py
